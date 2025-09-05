@@ -56,7 +56,7 @@ my_diagram.draw_to_file("ethernet_frame.png")
 
 **Result :**
 
-![Basic diagram example](https://raw.githubusercontent.com/JoramFC/packet-diagram-python/main/docs/images/ethernet_frame.png "Basic diagram - Ethernet frame")
+![Basic diagram example](https://raw.githubusercontent.com/JoramFC/packetdiagram/main/docs/images/ethernet_frame.png "Basic diagram - Ethernet frame")
 
 ## 🤝 Contributing
 
