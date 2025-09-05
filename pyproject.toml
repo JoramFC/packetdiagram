@@ -1,6 +1,6 @@
 [project]
 name = "packetdiagram"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Joram Fillol-Carlini", email="joram.fillolcarlini@laposte.net" },
 ]
@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/JoramFC/packet-diagram-python"
+Homepage = "https://github.com/JoramFC/packetdiagram"
 
 [build-system]
 requires = ["setuptools >= 77.0.3"]
