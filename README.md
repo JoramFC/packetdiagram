@@ -38,7 +38,7 @@ parent_field = packet.add_field("Packet", 10)
 packet.add_field("FCS", 2)
 
 # Add another packet to the diagram
-packet = my_diagram.add_new_packet("Ethernet Frame")
+packet = my_diagram.add_new_packet("IP Frame")
 
 # Set packet parent field
 packet.set_parent(parent_field)
